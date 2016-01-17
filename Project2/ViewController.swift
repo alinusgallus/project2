@@ -8,7 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController:
+
+
+@IBOutlet weak var button1: UIButton!
+
+
+
+    UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
